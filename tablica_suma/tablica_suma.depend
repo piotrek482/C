@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1445806696 source:p:\code blocks c++\documents\projekty_kurs_c++\tablica_suma\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1438081764 source:p:\code blocks c++\documents\ile_dni_ma_miesiac_switch\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+

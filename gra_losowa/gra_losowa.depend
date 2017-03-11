@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437842706 source:p:\code blocks c++\documents\gra_losowa\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

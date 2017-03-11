@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1445810426 source:p:\code blocks c++\documents\projekty_kurs_c++\losowanie_bez_powtorzen\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1445810426 source:c:\users\piotrek13\documents\github\c++\losowanie_bez_powtorzen\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
